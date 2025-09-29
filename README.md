@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hansa-dewmina" target="blank"><img src="https://img.shields.io/twitter/follow/hansa-dewmina?logo=twitter&style=for-the-badge" alt="hansa-dewmina" /></a> </p>
 
-- 🔭 I’m currently working on [DEW-MD](dew-md.up.railway.app)
+- 🔭 I’m currently working on [DEW-MD](https://dew-md.free.nf)
 
 - 👯 I’m looking to collaborate on **DEW-CODERS**
 
